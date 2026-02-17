@@ -1,0 +1,6 @@
+tcenv/
+__pycache__/
+.env
+*.pyc
+.db
+.idea/
